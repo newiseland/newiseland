@@ -1,160 +1,142 @@
-<h1 align="center">Hi 👋, I'm 𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™</h1>
-<h3 align="center">A passionate frontend developer from India,Patna</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newsiseland&label=Profile%20views&color=0e75b6&style=flat" alt="newsiseland" /> </p>
 <div align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0a00,100:FF6600&height=200&section=header&text=HARRY&fontSize=90&fontColor=FF6600&fontAlignY=50&desc=@SIDHIMUSIC%20•%20Frontend%20Dev%20•%20Music%20Creator%20•%20🇮🇳&descAlignY=72&descSize=13&animation=fadeIn&stroke=FF6600&strokeWidth=1" width="100%"/>
+
 </div>
-<div align="center">
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://t.me/SARKAR_UPDATE/28](https://t.me/SARKAR_UPDATE/28)
-
-- 📝 I regularly write articles on [https://t.me/SARKAR_UPDATE/28](https://t.me/SARKAR_UPDATE/28)
-
-- 📫 How to reach me **aahkr5319@gmail.com**
-
-- 📄 Know about my experiences [https://t.me/TG_NAME_STYLE/5922](https://t.me/TG_NAME_STYLE/5922)
-<h2 align="left">Hi 👋! My name is 𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™ and I'm a SANATANI BACHA , from PATNA</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/newiseland/newiseland/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/tum_jaha_ham_wahi?igsh=MzExdzBoZnEyaTA=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://t.me/SANATANI_BACHA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=FF6600&center=true&vCenter=true&width=600&lines=I+build+things+that+feel+alive.;Code+by+day.+Music+by+night.;Patna%2C+Bihar+→+Everywhere+🚀;Open+Source+%7C+Open+Heart+%7C+Always+Grinding.)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=newiseland&label=Profile+Views&color=FF6600&style=flat-square" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/newiseland?label=Followers&style=flat-square&color=FF6600&labelColor=111" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/newiseland?label=Stars&style=flat-square&color=FF6600&labelColor=111" />
+
 </div>
+
+---
+
+## ⚡ Who Am I
+
+```js
+const Harry = {
+  name     : "Harry",
+  handle   : "@SIDHIMUSIC",
+  base     : "Patna, Bihar 🇮🇳",
+  builds   : ["Web Apps", "Telegram Bots", "Music Content"],
+  stack    : ["HTML", "CSS", "JavaScript", "Python", "React"],
+  vibe     : "Lo-fi beats + dark mode + clean code",
+  now      : "Grinding on React & Node.js",
+  motto    : "Ship it. Improve it. Own it. 🔥"
+};
+```
+
+---
+
+## 🔥 What I'm Working On
+
+| Project | Description | Status |
+|---|---|---|
+| 🤖 **Harry AI Bot** | Telegram bot powered by DeepSeek AI | 🟢 Live |
+| 🌐 **harryashu.online** | Personal portfolio with 22+ tools | 🟢 Live |
+| 🎵 **Music Content** | Creating & dropping beats | 🎧 Active |
+| ⚡ **React Projects** | Leveling up frontend skills | 🔨 Building |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend & DB**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=newiseland&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=FF6600&icon_color=FF6600&text_color=cccccc&ring_color=FF6600" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newiseland&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF6600&text_color=cccccc&langs_count=6" width="38%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=newiseland&theme=dark&hide_border=true&background=0d0d0d&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=888888&dates=555555&sideNums=ffffff&currStreakNum=FF6600" width="60%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="85%"/>
 </picture>
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+---
+
+## 🌐 Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newiseland&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newiseland&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<a href="https://www.instagram.com/harryashu_" target="_blank">
+  <img src="https://img.shields.io/badge/@harryashu__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://t.me/SANATANI_BACHA" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:aahkr5319@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://harryashu.online" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
 </div>
 
-###
-
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=newiseland&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newiseland&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+*"Code hard. Dream bigger."* — Harry 🔥
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6600&height=100&section=footer&animation=twinkling" width="100%"/>
+
 </div>
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src="https://graph.org/file/0328b390dc1fb38167749-87aa9a15d3f43fe4a9.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/tum_jaha_ham_wahi?igsh=MzExdzBoZnEyaTA=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="aahkr5319@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://t.me/SANATANI_BACHA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-
-
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/newiseland/count.svg?"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
